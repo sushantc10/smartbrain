@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^1.18.4",
-    "polytool": "0.0.6"
+    "polytool": "0.0.6",
+    "bcrypt":"*"
   }
 }
